@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="59659" started-at="2016-12-04T11:38:51Z" finished-at="2016-12-04T11:39:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="59659" started-at="2016-12-04T11:38:51Z" finished-at="2016-12-04T11:39:51Z">
+      <class name="com.Vmetry.NTLTaxi.Temp.ReportTest">
+        <test-method status="PASS" signature="googleTest()[pri:1, instance:com.Vmetry.NTLTaxi.Temp.ReportTest@225c6110]" name="googleTest" duration-ms="12409" started-at="2016-12-04T17:08:51Z" finished-at="2016-12-04T17:09:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.Vmetry.NTLTaxi.Temp.ReportTest@225c6110]" name="teardown" is-config="true" duration-ms="246" started-at="2016-12-04T17:09:04Z" finished-at="2016-12-04T17:09:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=googleTest status=SUCCESS method=ReportTest.googleTest()[pri:1, instance:com.Vmetry.NTLTaxi.Temp.ReportTest@225c6110] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="gmailTest()[pri:2, instance:com.Vmetry.NTLTaxi.Temp.ReportTest@225c6110]" name="gmailTest" duration-ms="7668" started-at="2016-12-04T17:09:04Z" finished-at="2016-12-04T17:09:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gmailTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.Vmetry.NTLTaxi.Temp.ReportTest@225c6110]" name="teardown" is-config="true" duration-ms="2656" started-at="2016-12-04T17:09:12Z" finished-at="2016-12-04T17:09:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=gmailTest status=SUCCESS method=ReportTest.gmailTest()[pri:2, instance:com.Vmetry.NTLTaxi.Temp.ReportTest@225c6110] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="yahooTest()[pri:3, instance:com.Vmetry.NTLTaxi.Temp.ReportTest@225c6110]" name="yahooTest" duration-ms="32110" started-at="2016-12-04T17:09:14Z" finished-at="2016-12-04T17:09:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- yahooTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.Vmetry.NTLTaxi.Temp.ReportTest@225c6110]" name="teardown" is-config="true" duration-ms="4486" started-at="2016-12-04T17:09:46Z" finished-at="2016-12-04T17:09:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=yahooTest status=SUCCESS method=ReportTest.yahooTest()[pri:3, instance:com.Vmetry.NTLTaxi.Temp.ReportTest@225c6110] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.Vmetry.NTLTaxi.Temp.ReportTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
